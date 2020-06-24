@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="866f8fcd-b3b6-47b0-81c1-cf9f1aa4058e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="appium" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Ynvp90XW7yR050kYZszRLRAwHM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.xiecheng">
+    <configuration name="baidu" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/baidu.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="huoshan" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/huoshan.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="qimao-operation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/qimao-operation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xiangkan_all-run" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiangkan_all-run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xiecheng" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="appium" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xiecheng.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.xiecheng" />
+        <item itemvalue="Python.baidu" />
+        <item itemvalue="Python.huoshan" />
+        <item itemvalue="Python.qimao-operation" />
+        <item itemvalue="Python.xiangkan_all-run" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="866f8fcd-b3b6-47b0-81c1-cf9f1aa4058e" name="Default Changelist" comment="" />
+      <created>1583591352462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583591352462</updated>
+      <workItem from="1583591357940" duration="854000" />
+      <workItem from="1583592537536" duration="5142000" />
+      <workItem from="1583670513597" duration="1664000" />
+      <workItem from="1583674067454" duration="5000" />
+      <workItem from="1583674114138" duration="18000" />
+      <workItem from="1583674942634" duration="596000" />
+      <workItem from="1583676781798" duration="197000" />
+      <workItem from="1583677521883" duration="1976000" />
+      <workItem from="1583681611633" duration="1363000" />
+      <workItem from="1583684185133" duration="18000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="428" y="112" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1584588975208">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="428" y="112" key="#com.intellij.ide.macro.MacrosDialog/0.0.1280.800@0.0.1280.800" timestamp="1584588975208" />
+    <state x="349" y="21" key="#demo" timestamp="1584589097901">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="349" y="21" key="#demo/0.0.1280.800@0.0.1280.800" timestamp="1584589097901" />
+    <state x="349" y="32" key="#douyin" timestamp="1584592432978">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="349" y="32" key="#douyin/0.23.1280.777@0.23.1280.777" timestamp="1584592432978" />
+    <state x="399" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1584588830024">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="399" y="278" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.800@0.0.1280.800" timestamp="1584588830024" />
+    <state x="100" y="79" width="1080" height="618" key="DiffContextDialog" timestamp="1588435880434">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state x="100" y="79" width="1080" height="618" key="DiffContextDialog/0.23.1280.709@0.23.1280.709" timestamp="1588435880434" />
+    <state x="100" y="100" width="1080" height="600" key="DiffContextDialog/0.23.1280.777@0.23.1280.777" timestamp="1587446456492" />
+    <state x="395" y="172" key="EnvironmentVariablesDialog" timestamp="1584589086232">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="395" y="172" key="EnvironmentVariablesDialog/0.0.1280.800@0.0.1280.800" timestamp="1584589086232" />
+    <state x="427" y="173" key="FileChooserDialogImpl" timestamp="1584592843395">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="427" y="173" key="FileChooserDialogImpl/0.23.1280.777@0.23.1280.777" timestamp="1584592843395" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom" timestamp="1589096526503">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.0.1280.800@0.0.1280.800" timestamp="1588437234321" />
+    <state width="1259" height="163" key="GridCell.Tab.0.bottom/0.23.1280.709@0.23.1280.709" timestamp="1589096526503" />
+    <state width="1259" height="152" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1587802581096" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center" timestamp="1589096526502">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.0.1280.800@0.0.1280.800" timestamp="1588437234317" />
+    <state width="1259" height="163" key="GridCell.Tab.0.center/0.23.1280.709@0.23.1280.709" timestamp="1589096526502" />
+    <state width="1259" height="152" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1587802581095" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left" timestamp="1589096526502">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.0.1280.800@0.0.1280.800" timestamp="1588437234316" />
+    <state width="1259" height="163" key="GridCell.Tab.0.left/0.23.1280.709@0.23.1280.709" timestamp="1589096526502" />
+    <state width="1259" height="152" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1587802581095" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right" timestamp="1589096526503">
+      <screen x="0" y="23" width="1280" height="709" />
+    </state>
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.0.1280.800@0.0.1280.800" timestamp="1588437234319" />
+    <state width="1259" height="163" key="GridCell.Tab.0.right/0.23.1280.709@0.23.1280.709" timestamp="1589096526503" />
+    <state width="1259" height="152" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1587802581096" />
+    <state x="149" y="61" key="SettingsEditor" timestamp="1584596805929">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="149" y="39" key="SettingsEditor/0.0.1280.800@0.0.1280.800" timestamp="1584589632832" />
+    <state x="149" y="61" key="SettingsEditor/0.23.1280.777@0.23.1280.777" timestamp="1584596805929" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1592272674249">
+      <screen x="0" y="23" width="1280" height="777" />
+    </state>
+    <state x="319" y="228" key="com.intellij.ide.util.TipDialog/0.0.1280.800@0.0.1280.800" timestamp="1588434319590" />
+    <state x="319" y="225" key="com.intellij.ide.util.TipDialog/0.23.1280.709@0.23.1280.709" timestamp="1589028726105" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777/-283.-1057.1920.1057@0.23.1280.777" timestamp="1592272674249" />
+    <state x="319" y="244" key="com.intellij.ide.util.TipDialog/0.23.1280.777@0.23.1280.777" timestamp="1588256571683" />
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup" timestamp="1585142225173">
+      <screen x="0" y="0" width="1280" height="800" />
+    </state>
+    <state x="305" y="124" width="670" height="676" key="search.everywhere.popup/0.0.1280.800@0.0.1280.800" timestamp="1585142225173" />
+    <state x="305" y="143" width="670" height="657" key="search.everywhere.popup/0.23.1280.777@0.23.1280.777" timestamp="1584754615716" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/Downloads/python-appium-app/douyin/多设备抓取抖音粉丝数据/handle_appium_douyin.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
